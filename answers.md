@@ -2,7 +2,7 @@
 
 a. Functions that can be treated as data
 
-*answer b. Functions that accepts other functions as arguments*
+**answer b. Functions that accepts other functions as arguments**
 
 c. Functions that collect results based on input
 
@@ -16,7 +16,7 @@ a. map()
 
 b. filter()
 
-*answer c. reduce()*
+**answer c. reduce()**
 
 d. splice()
 
@@ -26,7 +26,7 @@ d. splice()
 
 a. map()
 
-*answer b. filter()*
+**answer b. filter()**
 
 c. reduce()
 
