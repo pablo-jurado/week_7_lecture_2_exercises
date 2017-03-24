@@ -26,8 +26,8 @@ d. splice()
 
 a. map()
 
-**answer b. filter()**
+b. filter()
 
-c. reduce()
+**answer c. reduce()**
 
 d. splice()
